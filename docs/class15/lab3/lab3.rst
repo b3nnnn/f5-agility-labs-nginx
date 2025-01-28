@@ -78,7 +78,7 @@ Understanding the **AI Gateway** initial config
            services:
            - name: ollama
 
-3. Next we define a **policy** and attack the profile to it.
+3. Next we define a **policy** and attach the profile to it.
 
    .. code:: yaml
 
@@ -129,7 +129,7 @@ Understanding the **AI Gateway** initial config
            services:
            - name: ollama
 
-6. Go ahead and ask the **AI Assistant** a question. And review the **AI
+6. Go ahead and ask the **AI Assistant** a question and review the **AI
    Gateway** logs.
 
    ::
