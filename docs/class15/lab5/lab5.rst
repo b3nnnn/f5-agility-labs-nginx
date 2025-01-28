@@ -174,7 +174,7 @@ using the F5 built ``prompt-injection`` processor.
 
 7. Inspect the AI Gateway logs. You will see similar logs as bellow. The
    processor has identified the prompt as French with a 99 percent
-   accuracy and has routed to the mistral model
+   accuracy and has routed to the mistral model.
 
    .. code:: bash
 
